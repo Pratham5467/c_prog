@@ -1,0 +1,5 @@
+maths=100
+chem=80
+physics=89
+cp=95
+EEE=88
